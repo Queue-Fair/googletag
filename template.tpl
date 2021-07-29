@@ -26,13 +26,6 @@ ___INFO___
   ]
 }
 
-___INFO___
-
-{
-  "displayName": "Example Template",
-}
-
-
 
 ___TEMPLATE_PARAMETERS___
 
