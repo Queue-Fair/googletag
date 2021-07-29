@@ -1,0 +1,5 @@
+homepage: "https://queue-fair.com"
+documentation: "https://queue-fair.com/guide"
+versions:
+  - sha: 6c0195d13293d7629815c03e757999e5675ba714
+    changeNotes: Initial release.
